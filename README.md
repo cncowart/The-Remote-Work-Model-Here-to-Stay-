@@ -38,3 +38,6 @@ Overall this project proved to be very insightful into the world of remote work 
 * Tableau - Visualize the data along with being used as a presentation tool
 * Git - Version control
 * Atom - Editing ReadMe
+
+## Full Tableau presentation
+https://public.tableau.com/profile/cory.cowart#!/vizhome/capstone_16097175494990/CovidRemote
