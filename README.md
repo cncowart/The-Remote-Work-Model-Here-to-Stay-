@@ -40,4 +40,4 @@ Overall this project proved to be very insightful into the world of remote work 
 * Atom - Editing ReadMe
 
 ## Full Tableau presentation
-https://public.tableau.com/profile/cory.cowart#!/vizhome/capstone_16097175494990/CovidRemote
+https://public.tableau.com/profile/cory.cowart#!/vizhome/capstone_16097175494990/RemoteWorkHeretoStay
